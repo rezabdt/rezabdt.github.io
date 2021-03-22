@@ -1999,7 +1999,7 @@ p {
 
 .cta-full .container-fluid .padding-less.img {
   background: scroll center no-repeat;
-  background-size: cover;
+  background-size: contain;
   position: absolute;
   height: 100%;
 }
